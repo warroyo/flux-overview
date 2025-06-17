@@ -25,4 +25,4 @@ patches:
         version: v2
         kind: HelmRelease
         name: podinfo-helm
-      path: helm-patch.yaml
+      path: helm-patch.yml
