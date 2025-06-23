@@ -6,4 +6,4 @@ components:
 - ../../../../environments/np
 
 resources:
-- ../../base/podinfo
+- ../../../../base/podinfo
